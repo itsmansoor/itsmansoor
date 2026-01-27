@@ -60,7 +60,7 @@ I am a **Full-Stack Web Developer** with hands-on experience in building modern,
   👉 https://github.com/itsmansoor/react-food-delivery  
 
 - **Tourism AI Website**  
-  👉 https://github.com/itsmansoor/final-year-project  
+  👉https://github.com/itsmansoor/toursim-website.git 
 
 - **Weather Application**  
   👉 https://github.com/itsmansoor/Weather-app  
