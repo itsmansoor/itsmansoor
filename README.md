@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">I am Muhammad Mansoor</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | Next.js | WordPress</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack | Next.js </h3>
 
 <p align="center">
   <a href="https://github.com/itsmansoor">
@@ -12,12 +12,11 @@
 
 ## 👋 About Me
 
-I am a **Full-Stack Web Developer** with hands-on experience in building modern, responsive, and scalable web applications using the **MERN Stack, Next.js, and WordPress**.
+I am a **Full-Stack Web Developer** with hands-on experience in building modern, responsive, and scalable web applications using the **MERN Stack, and  Next.js**.
 
 - 💻 Strong focus on **Frontend (React, Next.js, Tailwind CSS, Bootstrap)**
 - 🧠 Solid understanding of **Backend APIs (Node.js, Express.js)**
 - 📦 Experience with **MongoDB & RESTful services**
-- 🖥️ Skilled in **WordPress Website Development & Customization**
 - 🚀 Passionate about clean code and real-world projects
 - 🌱 Currently enhancing **Next.js & Full-Stack Architecture skills**
 
@@ -43,10 +42,6 @@ I am a **Full-Stack Web Developer** with hands-on experience in building modern,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/>
 </p>
 
-### CMS
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="38"/>
-</p>
 
 ### Tools & Platforms
 <p>
@@ -66,7 +61,7 @@ I am a **Full-Stack Web Developer** with hands-on experience in building modern,
 - **Graduate Food Delivery System (React.js)**  
   👉 https://github.com/itsmansoor/react-food-delivery  
 
-- **Tourism AI Website (Next.js + AI Integration)**  
+- **Tourism AI Website (MERN + AI Integration)**  
   👉 https://github.com/itsmansoor/toursim-website  
 
 - **Weather Application (JavaScript API Project)**  
