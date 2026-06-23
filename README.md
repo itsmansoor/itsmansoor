@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">I am Muhammad Mansoor</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | Next.js </h3>
+<h3 align="center"> Full Stack Developer | MERN Stack | Next.js | FastAPI | Django | Python </h3>
 
 <p align="center">
   <a href="https://github.com/itsmansoor">
@@ -12,13 +12,15 @@
 
 ## 👋 About Me
 
-I am a **Full-Stack Web Developer** with hands-on experience in building modern, responsive, and scalable web applications using the **MERN Stack, and  Next.js**.
+I am an Information Technology graduate (awaiting final results) and a Full-Stack Web Developer passionate about building modern, scalable, and user-focused web applications.
 
-- 💻 Strong focus on **Frontend (React, Next.js, Tailwind CSS, Bootstrap)**
-- 🧠 Solid understanding of **Backend APIs (Node.js, Express.js)**
-- 📦 Experience with **MongoDB & RESTful services**
-- 🚀 Passionate about clean code and real-world projects
-- 🌱 Currently enhancing **Next.js & Full-Stack Architecture skills**
+* 💻 Experienced in MERN Stack, Next.js, FastAPI, and Django
+* ⚡ Strong foundation in React.js, Next.js, Tailwind CSS, and Bootstrap
+* 🧠 Skilled in backend development with Node.js, Express.js, FastAPI, and Django
+* 🗄️ Experience with MongoDB, MySQL, REST APIs, and database design
+* 🚀 Passionate about clean code, performance optimization, and real-world projects
+* 🌱 Continuously learning modern technologies and software development best practices
+* 📌 Open to entry-level opportunities, internships, and collaborative projects
 
 ---
 
@@ -39,6 +41,9 @@ I am a **Full-Stack Web Developer** with hands-on experience in building modern,
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/>
 </p>
 
@@ -48,13 +53,17 @@ I am a **Full-Stack Web Developer** with hands-on experience in building modern,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="38"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="38"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
+- **Student managment system (FAst api and React.js )**  
+  👉 https://github.com/itsmansoor/
+  
 - **Restaurant Reservation System (MERN Stack)**  
   👉 https://github.com/itsmansoor/restaurant_reservation
   
@@ -69,20 +78,15 @@ I am a **Full-Stack Web Developer** with hands-on experience in building modern,
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmansoor&show_icons=true&theme=default" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmansoor&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmansoor&theme=default" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmansoor&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact & Links
-
 <p>
   <a href="https://www.linkedin.com/in/muhammad-mansoor-521a082b6/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat&logo=linkedin&logoColor=white"/>
