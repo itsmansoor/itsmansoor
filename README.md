@@ -62,7 +62,7 @@ I am an Information Technology graduate (awaiting final results) and a Full-Stac
 ## 📌 Featured Projects
 
 - **Student managment system (FAst api and React.js )**  
-  👉 https://github.com/itsmansoor/
+  👉 https://github.com/itsmansoor/student-management-system
   
 - **Restaurant Reservation System (MERN Stack)**  
   👉 https://github.com/itsmansoor/restaurant_reservation
