@@ -63,15 +63,17 @@ I am an Information Technology graduate (awaiting final results) and a Full-Stac
 
 - **Student managment system (FAst api and React.js )**  
   👉 https://github.com/itsmansoor/student-management-system
+
+- **Tourism AI Website (MERN + AI Integration)**  
+  👉 https://github.com/itsmansoor/Tourism-Website-With-AI-Integration
   
+  👉 https://tourism-website-with-ai-integration.vercel.app/ (Frontend )
+
 - **Restaurant Reservation System (MERN Stack)**  
   👉 https://github.com/itsmansoor/restaurant_reservation
   
 - **Graduate Food Delivery System (React.js)**  
-  👉 https://github.com/itsmansoor/react-food-delivery  
-
-- **Tourism AI Website (MERN + AI Integration)**  
-  👉 https://github.com/itsmansoor/toursim-website  
+  👉 https://github.com/itsmansoor/react-food-delivery   
 
 - **Weather Application (JavaScript API Project)**  
   👉 https://github.com/itsmansoor/Weather-app  
