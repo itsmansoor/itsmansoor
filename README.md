@@ -1,6 +1,8 @@
 ## Hi there 👋
 <h1 align="center">I am Muhammad Mansoor</h1>
-<h3 align="center"> Full Stack Developer | MERN Stack | Next.js | FastAPI | Django | Python </h3>
+<h3 align="center">
+Full-Stack Developer | MERN Stack | Next.js | FastAPI | Django | Python
+</h3>
 
 <p align="center">
   <a href="https://github.com/itsmansoor">
@@ -11,16 +13,16 @@
 ---
 
 ## 👋 About Me
-
-I am an Information Technology graduate (awaiting final results) and a Full-Stack Web Developer passionate about building modern, scalable, and user-focused web applications.
+I am a **Bachelor of Science in Information Technology graduate** and a passionate **Full-Stack Web Developer** with experience building modern, scalable, and user-focused web applications. I enjoy turning ideas into practical digital solutions using modern web technologies while continuously expanding my skills and embracing new challenges.
 
 * 💻 Experienced in MERN Stack, Next.js, FastAPI, and Django
-* ⚡ Strong foundation in React.js, Next.js, Tailwind CSS, and Bootstrap
-* 🧠 Skilled in backend development with Node.js, Express.js, FastAPI, and Django
-* 🗄️ Experience with MongoDB, MySQL, REST APIs, and database design
-* 🚀 Passionate about clean code, performance optimization, and real-world projects
-* 🌱 Continuously learning modern technologies and software development best practices
-* 📌 Open to entry-level opportunities, internships, and collaborative projects
+* ⚡ Proficient in React.js, JavaScript, Tailwind CSS, and Bootstrap
+* 🧠 Backend development with Node.js, Express.js, FastAPI, and Django
+* 🗄️ Database design using MongoDB and MySQL
+* 🔐 Experience building REST APIs, authentication, and CRUD applications
+* 🚀 Passionate about clean code, performance optimization, and scalable software
+* 🌱 Continuously learning modern technologies and software engineering best practices
+* 📌 Open to entry-level opportunities, internships, freelance work, and collaborative projects
 
 ---
 
@@ -42,6 +44,7 @@ I am an Information Technology graduate (awaiting final results) and a Full-Stac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/>
@@ -61,7 +64,7 @@ I am an Information Technology graduate (awaiting final results) and a Full-Stac
 
 ## 📌 Featured Projects
 
-- **Student managment system (FAst api and React.js )**  
+- **Student Management System (React.js + FastAPI)**  
   👉 https://github.com/itsmansoor/student-management-system
 
 - **Tourism AI Website (MERN + AI Integration)**  
@@ -86,6 +89,8 @@ I am an Information Technology graduate (awaiting final results) and a Full-Stac
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmansoor&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=itsmansoor&theme=tokyonight)
+
 ---
 
 ## 📫 Contact & Links
@@ -103,4 +108,8 @@ I am an Information Technology graduate (awaiting final results) and a Full-Stac
 
 ---
 
-⭐ *Open to internships, entry-level roles, freelance projects, and collaborative opportunities.*
+---
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+⭐ Open to internships, entry-level roles, freelance projects, and collaborative opportunities.
