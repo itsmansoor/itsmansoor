@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">I am Muhammad Mansoor</h1>
 <h3 align="center">
-Full-Stack Developer | MERN Stack | Next.js | FastAPI | Django | Python
+Full-Stack Developer | MERN Stack | Next.js | Python
 </h3>
 
 <p align="center">
