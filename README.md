@@ -83,14 +83,14 @@ I am a **Bachelor of Science in Information Technology graduate** and a passiona
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Developer Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmansoor&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmansoor&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=itsmansoor&theme=tokyonight)
-
+* 🌐 Full-Stack Web Development
+* ⚛️ Modern React & Next.js Applications
+* 🐍 Python Backend Development
+* 🔗 RESTful API Development
+* 🗄️ Database Design & Management
+* 🤖 Exploring AI-powered web applications
 ---
 
 ## 📫 Contact & Links
